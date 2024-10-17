@@ -1,6 +1,6 @@
 # How to Remove Save Data
 
-Hexaword EN - Crossword Puzzle only collects player progress and preferences/configurations. This data might saved in the Cloud Save. This page will describe the procedure to remove all players save data from the Cloud.
+Hexaword EN - Crossword Puzzle only collects player progress and preferences/configurations. This data might saved in the Cloud Save. This page will describe the procedure to remove current player account's save data from the Cloud.
 
 1. Open the game (Hexaword EN - Crossword Puzzle).
 2. Go to game settings.
