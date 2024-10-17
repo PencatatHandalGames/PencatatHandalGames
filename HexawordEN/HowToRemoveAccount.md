@@ -8,3 +8,5 @@ Hexaword EN - Crossword Puzzle use Google Play Service Games and Google Cloud OA
 4. Select Delete Button
 5. Confirm Account Deletion
 6. User's account should have no access to "Hexaword EN - Crossword Puzzle" anymore
+
+Please contact us at pencatat.handal@gmail.com for additional info.
