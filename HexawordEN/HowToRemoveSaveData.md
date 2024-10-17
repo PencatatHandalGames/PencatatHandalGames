@@ -1,4 +1,4 @@
-# How to Remove Save Data
+# How to Remove User Save Data and Cloud Save Data
 
 Hexaword EN - Crossword Puzzle only collects player progress and preferences/configurations. This data might saved in the Cloud Save. This page will describe the procedure to remove current player account's save data from the Cloud.
 
