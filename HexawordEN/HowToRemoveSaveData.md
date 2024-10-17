@@ -5,15 +5,15 @@ Hexaword EN - Crossword Puzzle only collects player progress and preferences/con
 1. Open the game (Hexaword EN - Crossword Puzzle).
 2. Go to game settings.
 
-![image](https://github.com/user-attachments/assets/bd4a4680-2240-4b71-b986-07a738bb268d)
+![image](https://github.com/user-attachments/assets/15836f0c-c00f-40a2-a875-59cc9cfe343a)
 
 3. Press `Reset Data` button to delete all available data saved in the player's local device.
 
-![image](https://github.com/user-attachments/assets/c140d336-ccb4-4c5c-a4d3-558443de3123)
+![image](https://github.com/user-attachments/assets/28fbb4d5-a46c-4b76-b4eb-24b0d82c82e7)
 
 4. Then go to `Google Play Settings`.
 
-![image](https://github.com/user-attachments/assets/c052accb-7e8c-412f-b0a3-9ba7b5c5040c)
+![image](https://github.com/user-attachments/assets/c2c3da47-a700-4713-b5d6-0b425a430018)
 
 5. Press `Delete Data in Cloud` button to delete all available data saved in Cloud.
 
