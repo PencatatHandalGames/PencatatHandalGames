@@ -24,3 +24,5 @@ Hexaword EN - Crossword Puzzle only collects player progress and preferences/con
 ![image](https://github.com/user-attachments/assets/9f28f085-b90e-4ae3-9ee1-528d6e54c43e)
 
 7. Player local saved data and cloud saved data now should be deleted successfully.
+
+Please contact us at pencatat.handal@gmail.com for additional info.
