@@ -1,4 +1,4 @@
-# How to Remove Account
+# How to Remove User Account
 
 Hexaword EN - Crossword Puzzle use Google Play Service Games and Google Cloud OAuth to manage user account. This page will describe the procedure to remove current player account.
 
