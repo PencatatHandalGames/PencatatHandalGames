@@ -5,23 +5,23 @@ Hexaword EN - Crossword Puzzle only collects player progress and preferences/con
 1. Open the game (Hexaword EN - Crossword Puzzle).
 2. Go to game settings.
 
-![image](https://github.com/user-attachments/assets/15836f0c-c00f-40a2-a875-59cc9cfe343a)
+![image](https://github.com/user-attachments/assets/1750cbf5-cc53-4161-8c52-c28dc20003a6)
 
 3. Press `Reset Data` button to delete all available data saved in the player's local device.
 
-![image](https://github.com/user-attachments/assets/28fbb4d5-a46c-4b76-b4eb-24b0d82c82e7)
+![image](https://github.com/user-attachments/assets/6fa8cc15-0f3d-48da-9049-1e5d2b20abaf)
 
 4. Then go to `Google Play Settings`.
 
-![image](https://github.com/user-attachments/assets/c2c3da47-a700-4713-b5d6-0b425a430018)
+![image](https://github.com/user-attachments/assets/3e8144d2-6541-4be2-85aa-772815eed818)
 
 5. Press `Delete Data in Cloud` button to delete all available data saved in Cloud.
 
-![image](https://github.com/user-attachments/assets/f26c5df5-beb2-4faf-99ec-cbd11b758ab4)
+![image](https://github.com/user-attachments/assets/e4d2694e-44f8-46cf-b590-266b5a3a50f6)
 
 6. Confirm by pressing `Yes` button.
 
-![image](https://github.com/user-attachments/assets/9f28f085-b90e-4ae3-9ee1-528d6e54c43e)
+![image](https://github.com/user-attachments/assets/535ea4a3-d613-4aae-86de-2c2f74f3ef89)
 
 7. Player local saved data and cloud saved data now should be deleted successfully.
 
